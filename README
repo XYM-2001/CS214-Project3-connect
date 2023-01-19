@@ -1,0 +1,12 @@
+CS214 SPING 2021
+Project III
+David Menedndez
+
+Xinyu Meng xm73
+Qichao Lin ql180
+
+We've make sure all the correct messages(GET,DEL,SET) sent will operate correctly, also, when
+testing multithreading, we nc from multiple terminal and machine and send different messages,
+ everything works correctly, also for error messages, if multiple new line characters, or
+ messages that are not in the correct format, or the keys and values exceeds the given length,
+ the server will respond an error message and disconnect. 
